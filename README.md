@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nick-gonzalez
-- 👀 I’m interested in javascript world 
+- 👀 I’m interested in web & mobile development 
 - 🌱 I’m currently learning Typescript
 
 <!---
